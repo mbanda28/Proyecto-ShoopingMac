@@ -1,2 +1,3 @@
-# curso-frontend-developer-javascript
-Fusion del curso practico de Frontend Developer para mi practica de Javascript
+## Tienda de compras para comprar bicicletas
+
+Parte de la funcion de una buena compra del dise;o de bicileta
